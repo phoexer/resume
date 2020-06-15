@@ -1,0 +1,18 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume for Michael Musangeya",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:phoexer/resume.git"
+  },
+  "keywords": [
+    "Resume",
+    "Michael Musangeya"
+  ],
+  "author": "Michael Musangeya",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0"
+  }
+}
